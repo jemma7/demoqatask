@@ -1,0 +1,2 @@
+This is my hometask on github.
+I created a txt file and a directory with gitbush. 
